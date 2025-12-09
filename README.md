@@ -109,3 +109,8 @@ pnpm evals
 ├── drizzle/             # Database migrations
 └── public/              # Static assets
 ```
+
+## 🙏 Acknowledgements
+
+This project is fully based on the "Build DeepSearch in TypeScript" course by AI Hero.
+[AI Hero DeepSearch Course](https://www.aihero.dev/cohorts/build-deepsearch-in-typescript)
